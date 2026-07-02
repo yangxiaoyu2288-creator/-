@@ -1,0 +1,2167 @@
+{
+  "matches": [
+    {
+      "id": "ivl-2026-06-05-1400-te-mrc",
+      "league": "ivl",
+      "date": "2026-06-05",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "te",
+        "name": "TE",
+        "fullName": "TE",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "mrc",
+        "name": "MRC",
+        "fullName": "MRC",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-05-1600-fpx-zq-gr",
+      "league": "ivl",
+      "date": "2026-06-05",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "fpx-zq",
+        "name": "FPX.ZQ",
+        "fullName": "FunPlus Phoenix ZQ",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gr",
+        "name": "GR",
+        "fullName": "GR",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-05-1800-wbg-ivl-wolves",
+      "league": "ivl",
+      "date": "2026-06-05",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "wbg-ivl",
+        "name": "WBG",
+        "fullName": "Weibo Gaming IVL",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "wolves",
+        "name": "Wolves",
+        "fullName": "Wolves Esports",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-06-1400-fpx-zq-mrc",
+      "league": "ivl",
+      "date": "2026-06-06",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "fpx-zq",
+        "name": "FPX.ZQ",
+        "fullName": "FunPlus Phoenix ZQ",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "mrc",
+        "name": "MRC",
+        "fullName": "MRC",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-06-1600-act-gw",
+      "league": "ivl",
+      "date": "2026-06-06",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "act",
+        "name": "ACT",
+        "fullName": "ACT",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gw",
+        "name": "GW",
+        "fullName": "GW",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-06-1800-gr-dou5",
+      "league": "ivl",
+      "date": "2026-06-06",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "gr",
+        "name": "GR",
+        "fullName": "GR",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "dou5",
+        "name": "DOU5",
+        "fullName": "DOU5",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-07-1400-act-gg",
+      "league": "ivl",
+      "date": "2026-06-07",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "act",
+        "name": "ACT",
+        "fullName": "ACT",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gg",
+        "name": "GG",
+        "fullName": "GG Esports",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-07-1600-te-dou5",
+      "league": "ivl",
+      "date": "2026-06-07",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "te",
+        "name": "TE",
+        "fullName": "TE",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "dou5",
+        "name": "DOU5",
+        "fullName": "DOU5",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-07-1800-gw-wbg-ivl",
+      "league": "ivl",
+      "date": "2026-06-07",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "gw",
+        "name": "GW",
+        "fullName": "GW",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "wbg-ivl",
+        "name": "WBG",
+        "fullName": "Weibo Gaming IVL",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-12-1400-gw-gr",
+      "league": "ivl",
+      "date": "2026-06-12",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "gw",
+        "name": "GW",
+        "fullName": "GW",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gr",
+        "name": "GR",
+        "fullName": "GR",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-12-1600-dou5-wolves",
+      "league": "ivl",
+      "date": "2026-06-12",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "dou5",
+        "name": "DOU5",
+        "fullName": "DOU5",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "wolves",
+        "name": "Wolves",
+        "fullName": "Wolves Esports",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-12-1800-wbg-ivl-mrc",
+      "league": "ivl",
+      "date": "2026-06-12",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "wbg-ivl",
+        "name": "WBG",
+        "fullName": "Weibo Gaming IVL",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "mrc",
+        "name": "MRC",
+        "fullName": "MRC",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-13-1400-gg-wolves",
+      "league": "ivl",
+      "date": "2026-06-13",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "gg",
+        "name": "GG",
+        "fullName": "GG Esports",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "wolves",
+        "name": "Wolves",
+        "fullName": "Wolves Esports",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-13-1600-te-wbg-ivl",
+      "league": "ivl",
+      "date": "2026-06-13",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "te",
+        "name": "TE",
+        "fullName": "TE",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "wbg-ivl",
+        "name": "WBG",
+        "fullName": "Weibo Gaming IVL",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-13-1800-fpx-zq-act",
+      "league": "ivl",
+      "date": "2026-06-13",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "fpx-zq",
+        "name": "FPX.ZQ",
+        "fullName": "FunPlus Phoenix ZQ",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "act",
+        "name": "ACT",
+        "fullName": "ACT",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-14-1400-mrc-gr",
+      "league": "ivl",
+      "date": "2026-06-14",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "mrc",
+        "name": "MRC",
+        "fullName": "MRC",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gr",
+        "name": "GR",
+        "fullName": "GR",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-14-1600-te-fpx-zq",
+      "league": "ivl",
+      "date": "2026-06-14",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "te",
+        "name": "TE",
+        "fullName": "TE",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "fpx-zq",
+        "name": "FPX.ZQ",
+        "fullName": "FunPlus Phoenix ZQ",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-14-1800-gg-dou5",
+      "league": "ivl",
+      "date": "2026-06-14",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "gg",
+        "name": "GG",
+        "fullName": "GG Esports",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "dou5",
+        "name": "DOU5",
+        "fullName": "DOU5",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-19-1400-mrc-gw",
+      "league": "ivl",
+      "date": "2026-06-19",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "mrc",
+        "name": "MRC",
+        "fullName": "MRC",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gw",
+        "name": "GW",
+        "fullName": "GW",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-19-1600-act-dou5",
+      "league": "ivl",
+      "date": "2026-06-19",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "act",
+        "name": "ACT",
+        "fullName": "ACT",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "dou5",
+        "name": "DOU5",
+        "fullName": "DOU5",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-19-1800-gg-te",
+      "league": "ivl",
+      "date": "2026-06-19",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "gg",
+        "name": "GG",
+        "fullName": "GG Esports",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "te",
+        "name": "TE",
+        "fullName": "TE",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-20-1400-fpx-zq-wbg-ivl",
+      "league": "ivl",
+      "date": "2026-06-20",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "fpx-zq",
+        "name": "FPX.ZQ",
+        "fullName": "FunPlus Phoenix ZQ",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "wbg-ivl",
+        "name": "WBG",
+        "fullName": "Weibo Gaming IVL",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-20-1600-act-gr",
+      "league": "ivl",
+      "date": "2026-06-20",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "act",
+        "name": "ACT",
+        "fullName": "ACT",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gr",
+        "name": "GR",
+        "fullName": "GR",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-20-1800-wolves-gw",
+      "league": "ivl",
+      "date": "2026-06-20",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "wolves",
+        "name": "Wolves",
+        "fullName": "Wolves Esports",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gw",
+        "name": "GW",
+        "fullName": "GW",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-21-1400-wbg-ivl-gg",
+      "league": "ivl",
+      "date": "2026-06-21",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "wbg-ivl",
+        "name": "WBG",
+        "fullName": "Weibo Gaming IVL",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gg",
+        "name": "GG",
+        "fullName": "GG Esports",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-21-1600-gr-wolves",
+      "league": "ivl",
+      "date": "2026-06-21",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "gr",
+        "name": "GR",
+        "fullName": "GR",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "wolves",
+        "name": "Wolves",
+        "fullName": "Wolves Esports",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-21-1800-fpx-zq-dou5",
+      "league": "ivl",
+      "date": "2026-06-21",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "fpx-zq",
+        "name": "FPX.ZQ",
+        "fullName": "FunPlus Phoenix ZQ",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "dou5",
+        "name": "DOU5",
+        "fullName": "DOU5",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-26-1400-wbg-ivl-dou5",
+      "league": "ivl",
+      "date": "2026-06-26",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "wbg-ivl",
+        "name": "WBG",
+        "fullName": "Weibo Gaming IVL",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "dou5",
+        "name": "DOU5",
+        "fullName": "DOU5",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-26-1600-gw-gg",
+      "league": "ivl",
+      "date": "2026-06-26",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "gw",
+        "name": "GW",
+        "fullName": "GW",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gg",
+        "name": "GG",
+        "fullName": "GG Esports",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-26-1800-wolves-mrc",
+      "league": "ivl",
+      "date": "2026-06-26",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "wolves",
+        "name": "Wolves",
+        "fullName": "Wolves Esports",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "mrc",
+        "name": "MRC",
+        "fullName": "MRC",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-27-1400-act-te",
+      "league": "ivl",
+      "date": "2026-06-27",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "act",
+        "name": "ACT",
+        "fullName": "ACT",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "te",
+        "name": "TE",
+        "fullName": "TE",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-27-1600-dou5-mrc",
+      "league": "ivl",
+      "date": "2026-06-27",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "dou5",
+        "name": "DOU5",
+        "fullName": "DOU5",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "mrc",
+        "name": "MRC",
+        "fullName": "MRC",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-27-1800-fpx-zq-gg",
+      "league": "ivl",
+      "date": "2026-06-27",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "fpx-zq",
+        "name": "FPX.ZQ",
+        "fullName": "FunPlus Phoenix ZQ",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gg",
+        "name": "GG",
+        "fullName": "GG Esports",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-28-1400-wolves-act",
+      "league": "ivl",
+      "date": "2026-06-28",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "wolves",
+        "name": "Wolves",
+        "fullName": "Wolves Esports",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "act",
+        "name": "ACT",
+        "fullName": "ACT",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-28-1600-wbg-ivl-gr",
+      "league": "ivl",
+      "date": "2026-06-28",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "wbg-ivl",
+        "name": "WBG",
+        "fullName": "Weibo Gaming IVL",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gr",
+        "name": "GR",
+        "fullName": "GR",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-06-28-1800-gw-te",
+      "league": "ivl",
+      "date": "2026-06-28",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "gw",
+        "name": "GW",
+        "fullName": "GW",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "te",
+        "name": "TE",
+        "fullName": "TE",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "lpl-2026-07-03-1100-hle-tsw",
+      "league": "lpl",
+      "date": "2026-07-03",
+      "time": "11:00",
+      "homeTeam": {
+        "id": "hle",
+        "name": "HLE",
+        "fullName": "Hanwha Life Esports",
+        "league": "lpl"
+      },
+      "awayTeam": {
+        "id": "tsw",
+        "name": "TSW",
+        "fullName": "TSW",
+        "league": "lpl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "MSI",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-03-1400-dou5-gw",
+      "league": "ivl",
+      "date": "2026-07-03",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "dou5",
+        "name": "DOU5",
+        "fullName": "DOU5",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gw",
+        "name": "GW",
+        "fullName": "GW",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-03-1600-gr-gg",
+      "league": "ivl",
+      "date": "2026-07-03",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "gr",
+        "name": "GR",
+        "fullName": "GR",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gg",
+        "name": "GG",
+        "fullName": "GG Esports",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "lpl-2026-07-03-1600-g2-tes",
+      "league": "lpl",
+      "date": "2026-07-03",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "g2",
+        "name": "G2",
+        "fullName": "G2 Esports",
+        "league": "lpl"
+      },
+      "awayTeam": {
+        "id": "tes",
+        "name": "TES",
+        "fullName": "Top Esports",
+        "league": "lpl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "MSI",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-03-1800-mrc-act",
+      "league": "ivl",
+      "date": "2026-07-03",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "mrc",
+        "name": "MRC",
+        "fullName": "MRC",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "act",
+        "name": "ACT",
+        "fullName": "ACT",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "lpl-2026-07-04-1100-lyon-fur",
+      "league": "lpl",
+      "date": "2026-07-04",
+      "time": "11:00",
+      "homeTeam": {
+        "id": "lyon",
+        "name": "LYON",
+        "fullName": "LYON",
+        "league": "lpl"
+      },
+      "awayTeam": {
+        "id": "fur",
+        "name": "FUR",
+        "fullName": "FURIA",
+        "league": "lpl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "MSI",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-04-1400-gr-te",
+      "league": "ivl",
+      "date": "2026-07-04",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "gr",
+        "name": "GR",
+        "fullName": "GR",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "te",
+        "name": "TE",
+        "fullName": "TE",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-04-1600-fpx-zq-wolves",
+      "league": "ivl",
+      "date": "2026-07-04",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "fpx-zq",
+        "name": "FPX.ZQ",
+        "fullName": "FunPlus Phoenix ZQ",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "wolves",
+        "name": "Wolves",
+        "fullName": "Wolves Esports",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "lpl-2026-07-04-1600-blg-t1",
+      "league": "lpl",
+      "date": "2026-07-04",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "blg",
+        "name": "BLG",
+        "fullName": "Bilibili Gaming",
+        "league": "lpl"
+      },
+      "awayTeam": {
+        "id": "t1",
+        "name": "T1",
+        "fullName": "T1",
+        "league": "lpl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "MSI",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-04-1800-gg-mrc",
+      "league": "ivl",
+      "date": "2026-07-04",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "gg",
+        "name": "GG",
+        "fullName": "GG Esports",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "mrc",
+        "name": "MRC",
+        "fullName": "MRC",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-05-1400-te-wolves",
+      "league": "ivl",
+      "date": "2026-07-05",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "te",
+        "name": "TE",
+        "fullName": "TE",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "wolves",
+        "name": "Wolves",
+        "fullName": "Wolves Esports",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-05-1600-wbg-ivl-act",
+      "league": "ivl",
+      "date": "2026-07-05",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "wbg-ivl",
+        "name": "WBG",
+        "fullName": "Weibo Gaming IVL",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "act",
+        "name": "ACT",
+        "fullName": "ACT",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-05-1800-fpx-zq-gw",
+      "league": "ivl",
+      "date": "2026-07-05",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "fpx-zq",
+        "name": "FPX.ZQ",
+        "fullName": "FunPlus Phoenix ZQ",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gw",
+        "name": "GW",
+        "fullName": "GW",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-10-1400-te-gg",
+      "league": "ivl",
+      "date": "2026-07-10",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "te",
+        "name": "TE",
+        "fullName": "TE",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gg",
+        "name": "GG",
+        "fullName": "GG Esports",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-10-1600-mrc-fpx-zq",
+      "league": "ivl",
+      "date": "2026-07-10",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "mrc",
+        "name": "MRC",
+        "fullName": "MRC",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "fpx-zq",
+        "name": "FPX.ZQ",
+        "fullName": "FunPlus Phoenix ZQ",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-10-1800-gr-act",
+      "league": "ivl",
+      "date": "2026-07-10",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "gr",
+        "name": "GR",
+        "fullName": "GR",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "act",
+        "name": "ACT",
+        "fullName": "ACT",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-11-1400-wbg-ivl-fpx-zq",
+      "league": "ivl",
+      "date": "2026-07-11",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "wbg-ivl",
+        "name": "WBG",
+        "fullName": "Weibo Gaming IVL",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "fpx-zq",
+        "name": "FPX.ZQ",
+        "fullName": "FunPlus Phoenix ZQ",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-11-1600-dou5-gr",
+      "league": "ivl",
+      "date": "2026-07-11",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "dou5",
+        "name": "DOU5",
+        "fullName": "DOU5",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gr",
+        "name": "GR",
+        "fullName": "GR",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-11-1800-wolves-te",
+      "league": "ivl",
+      "date": "2026-07-11",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "wolves",
+        "name": "Wolves",
+        "fullName": "Wolves Esports",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "te",
+        "name": "TE",
+        "fullName": "TE",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-12-1400-gw-mrc",
+      "league": "ivl",
+      "date": "2026-07-12",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "gw",
+        "name": "GW",
+        "fullName": "GW",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "mrc",
+        "name": "MRC",
+        "fullName": "MRC",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-12-1600-gg-act",
+      "league": "ivl",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "gg",
+        "name": "GG",
+        "fullName": "GG Esports",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "act",
+        "name": "ACT",
+        "fullName": "ACT",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-12-1800-wolves-wbg-ivl",
+      "league": "ivl",
+      "date": "2026-07-12",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "wolves",
+        "name": "Wolves",
+        "fullName": "Wolves Esports",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "wbg-ivl",
+        "name": "WBG",
+        "fullName": "Weibo Gaming IVL",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-16-1400-dou5-gg",
+      "league": "ivl",
+      "date": "2026-07-16",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "dou5",
+        "name": "DOU5",
+        "fullName": "DOU5",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gg",
+        "name": "GG",
+        "fullName": "GG Esports",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-16-1600-mrc-wolves",
+      "league": "ivl",
+      "date": "2026-07-16",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "mrc",
+        "name": "MRC",
+        "fullName": "MRC",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "wolves",
+        "name": "Wolves",
+        "fullName": "Wolves Esports",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-16-1800-te-gr",
+      "league": "ivl",
+      "date": "2026-07-16",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "te",
+        "name": "TE",
+        "fullName": "TE",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gr",
+        "name": "GR",
+        "fullName": "GR",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-17-1400-act-fpx-zq",
+      "league": "ivl",
+      "date": "2026-07-17",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "act",
+        "name": "ACT",
+        "fullName": "ACT",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "fpx-zq",
+        "name": "FPX.ZQ",
+        "fullName": "FunPlus Phoenix ZQ",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-17-1600-gr-gw",
+      "league": "ivl",
+      "date": "2026-07-17",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "gr",
+        "name": "GR",
+        "fullName": "GR",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gw",
+        "name": "GW",
+        "fullName": "GW",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-17-1800-mrc-gg",
+      "league": "ivl",
+      "date": "2026-07-17",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "mrc",
+        "name": "MRC",
+        "fullName": "MRC",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gg",
+        "name": "GG",
+        "fullName": "GG Esports",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-18-1400-wbg-ivl-te",
+      "league": "ivl",
+      "date": "2026-07-18",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "wbg-ivl",
+        "name": "WBG",
+        "fullName": "Weibo Gaming IVL",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "te",
+        "name": "TE",
+        "fullName": "TE",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-18-1600-dou5-fpx-zq",
+      "league": "ivl",
+      "date": "2026-07-18",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "dou5",
+        "name": "DOU5",
+        "fullName": "DOU5",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "fpx-zq",
+        "name": "FPX.ZQ",
+        "fullName": "FunPlus Phoenix ZQ",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-18-1800-gw-wolves",
+      "league": "ivl",
+      "date": "2026-07-18",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "gw",
+        "name": "GW",
+        "fullName": "GW",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "wolves",
+        "name": "Wolves",
+        "fullName": "Wolves Esports",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-19-1400-mrc-te",
+      "league": "ivl",
+      "date": "2026-07-19",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "mrc",
+        "name": "MRC",
+        "fullName": "MRC",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "te",
+        "name": "TE",
+        "fullName": "TE",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-19-1600-gg-wbg-ivl",
+      "league": "ivl",
+      "date": "2026-07-19",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "gg",
+        "name": "GG",
+        "fullName": "GG Esports",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "wbg-ivl",
+        "name": "WBG",
+        "fullName": "Weibo Gaming IVL",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-19-1800-gw-act",
+      "league": "ivl",
+      "date": "2026-07-19",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "gw",
+        "name": "GW",
+        "fullName": "GW",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "act",
+        "name": "ACT",
+        "fullName": "ACT",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-23-1400-act-wolves",
+      "league": "ivl",
+      "date": "2026-07-23",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "act",
+        "name": "ACT",
+        "fullName": "ACT",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "wolves",
+        "name": "Wolves",
+        "fullName": "Wolves Esports",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-23-1600-gw-dou5",
+      "league": "ivl",
+      "date": "2026-07-23",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "gw",
+        "name": "GW",
+        "fullName": "GW",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "dou5",
+        "name": "DOU5",
+        "fullName": "DOU5",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-23-1800-mrc-wbg-ivl",
+      "league": "ivl",
+      "date": "2026-07-23",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "mrc",
+        "name": "MRC",
+        "fullName": "MRC",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "wbg-ivl",
+        "name": "WBG",
+        "fullName": "Weibo Gaming IVL",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-24-1400-wolves-dou5",
+      "league": "ivl",
+      "date": "2026-07-24",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "wolves",
+        "name": "Wolves",
+        "fullName": "Wolves Esports",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "dou5",
+        "name": "DOU5",
+        "fullName": "DOU5",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-24-1600-te-act",
+      "league": "ivl",
+      "date": "2026-07-24",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "te",
+        "name": "TE",
+        "fullName": "TE",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "act",
+        "name": "ACT",
+        "fullName": "ACT",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-24-1800-gg-gr",
+      "league": "ivl",
+      "date": "2026-07-24",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "gg",
+        "name": "GG",
+        "fullName": "GG Esports",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gr",
+        "name": "GR",
+        "fullName": "GR",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-25-1400-wolves-gg",
+      "league": "ivl",
+      "date": "2026-07-25",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "wolves",
+        "name": "Wolves",
+        "fullName": "Wolves Esports",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gg",
+        "name": "GG",
+        "fullName": "GG Esports",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-25-1600-gw-fpx-zq",
+      "league": "ivl",
+      "date": "2026-07-25",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "gw",
+        "name": "GW",
+        "fullName": "GW",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "fpx-zq",
+        "name": "FPX.ZQ",
+        "fullName": "FunPlus Phoenix ZQ",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-25-1800-dou5-act",
+      "league": "ivl",
+      "date": "2026-07-25",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "dou5",
+        "name": "DOU5",
+        "fullName": "DOU5",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "act",
+        "name": "ACT",
+        "fullName": "ACT",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-26-1400-gr-mrc",
+      "league": "ivl",
+      "date": "2026-07-26",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "gr",
+        "name": "GR",
+        "fullName": "GR",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "mrc",
+        "name": "MRC",
+        "fullName": "MRC",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-26-1600-wbg-ivl-gw",
+      "league": "ivl",
+      "date": "2026-07-26",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "wbg-ivl",
+        "name": "WBG",
+        "fullName": "Weibo Gaming IVL",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gw",
+        "name": "GW",
+        "fullName": "GW",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-26-1800-fpx-zq-te",
+      "league": "ivl",
+      "date": "2026-07-26",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "fpx-zq",
+        "name": "FPX.ZQ",
+        "fullName": "FunPlus Phoenix ZQ",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "te",
+        "name": "TE",
+        "fullName": "TE",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-30-1400-gr-fpx-zq",
+      "league": "ivl",
+      "date": "2026-07-30",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "gr",
+        "name": "GR",
+        "fullName": "GR",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "fpx-zq",
+        "name": "FPX.ZQ",
+        "fullName": "FunPlus Phoenix ZQ",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-30-1600-dou5-te",
+      "league": "ivl",
+      "date": "2026-07-30",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "dou5",
+        "name": "DOU5",
+        "fullName": "DOU5",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "te",
+        "name": "TE",
+        "fullName": "TE",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-30-1800-act-mrc",
+      "league": "ivl",
+      "date": "2026-07-30",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "act",
+        "name": "ACT",
+        "fullName": "ACT",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "mrc",
+        "name": "MRC",
+        "fullName": "MRC",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-31-1400-dou5-wbg-ivl",
+      "league": "ivl",
+      "date": "2026-07-31",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "dou5",
+        "name": "DOU5",
+        "fullName": "DOU5",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "wbg-ivl",
+        "name": "WBG",
+        "fullName": "Weibo Gaming IVL",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-31-1600-wolves-gr",
+      "league": "ivl",
+      "date": "2026-07-31",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "wolves",
+        "name": "Wolves",
+        "fullName": "Wolves Esports",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gr",
+        "name": "GR",
+        "fullName": "GR",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-07-31-1800-gg-fpx-zq",
+      "league": "ivl",
+      "date": "2026-07-31",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "gg",
+        "name": "GG",
+        "fullName": "GG Esports",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "fpx-zq",
+        "name": "FPX.ZQ",
+        "fullName": "FunPlus Phoenix ZQ",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-08-01-1400-te-gw",
+      "league": "ivl",
+      "date": "2026-08-01",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "te",
+        "name": "TE",
+        "fullName": "TE",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gw",
+        "name": "GW",
+        "fullName": "GW",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-08-01-1600-wolves-fpx-zq",
+      "league": "ivl",
+      "date": "2026-08-01",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "wolves",
+        "name": "Wolves",
+        "fullName": "Wolves Esports",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "fpx-zq",
+        "name": "FPX.ZQ",
+        "fullName": "FunPlus Phoenix ZQ",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-08-01-1800-act-wbg-ivl",
+      "league": "ivl",
+      "date": "2026-08-01",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "act",
+        "name": "ACT",
+        "fullName": "ACT",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "wbg-ivl",
+        "name": "WBG",
+        "fullName": "Weibo Gaming IVL",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-08-02-1400-mrc-dou5",
+      "league": "ivl",
+      "date": "2026-08-02",
+      "time": "14:00",
+      "homeTeam": {
+        "id": "mrc",
+        "name": "MRC",
+        "fullName": "MRC",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "dou5",
+        "name": "DOU5",
+        "fullName": "DOU5",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-08-02-1600-gg-gw",
+      "league": "ivl",
+      "date": "2026-08-02",
+      "time": "16:00",
+      "homeTeam": {
+        "id": "gg",
+        "name": "GG",
+        "fullName": "GG Esports",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "gw",
+        "name": "GW",
+        "fullName": "GW",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    },
+    {
+      "id": "ivl-2026-08-02-1800-gr-wbg-ivl",
+      "league": "ivl",
+      "date": "2026-08-02",
+      "time": "18:00",
+      "homeTeam": {
+        "id": "gr",
+        "name": "GR",
+        "fullName": "GR",
+        "league": "ivl"
+      },
+      "awayTeam": {
+        "id": "wbg-ivl",
+        "name": "WBG",
+        "fullName": "Weibo Gaming IVL",
+        "league": "ivl"
+      },
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "stage": "IVL常规赛",
+      "venue": ""
+    }
+  ],
+  "lastUpdated": "2026-07-02T16:30:27.069Z"
+}

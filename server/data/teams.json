@@ -1,0 +1,184 @@
+{
+  "teams": [
+    {
+      "id": "blg",
+      "name": "BLG",
+      "fullName": "Bilibili Gaming",
+      "league": "lpl"
+    },
+    {
+      "id": "tes",
+      "name": "TES",
+      "fullName": "Top Esports",
+      "league": "lpl"
+    },
+    {
+      "id": "jdg",
+      "name": "JDG",
+      "fullName": "JD Gaming",
+      "league": "lpl"
+    },
+    {
+      "id": "al",
+      "name": "AL",
+      "fullName": "Anyone's Legend",
+      "league": "lpl"
+    },
+    {
+      "id": "wbg",
+      "name": "WBG",
+      "fullName": "Weibo Gaming",
+      "league": "lpl"
+    },
+    {
+      "id": "ig",
+      "name": "IG",
+      "fullName": "Invictus Gaming",
+      "league": "lpl"
+    },
+    {
+      "id": "nip",
+      "name": "NIP",
+      "fullName": "Ninjas in Pyjamas",
+      "league": "lpl"
+    },
+    {
+      "id": "we",
+      "name": "WE",
+      "fullName": "Team WE",
+      "league": "lpl"
+    },
+    {
+      "id": "edg",
+      "name": "EDG",
+      "fullName": "Edward Gaming",
+      "league": "lpl"
+    },
+    {
+      "id": "tt",
+      "name": "TT",
+      "fullName": "Thunder Talk Gaming",
+      "league": "lpl"
+    },
+    {
+      "id": "ldg",
+      "name": "LDG",
+      "fullName": "LDG",
+      "league": "lpl"
+    },
+    {
+      "id": "lng",
+      "name": "LNG",
+      "fullName": "LNG Esports",
+      "league": "lpl"
+    },
+    {
+      "id": "omg",
+      "name": "OMG",
+      "fullName": "Oh My God",
+      "league": "lpl"
+    },
+    {
+      "id": "up",
+      "name": "UP",
+      "fullName": "Ultra Prime",
+      "league": "lpl"
+    },
+    {
+      "id": "hle",
+      "name": "HLE",
+      "fullName": "Hanwha Life Esports",
+      "league": "lpl"
+    },
+    {
+      "id": "tsw",
+      "name": "TSW",
+      "fullName": "TSW",
+      "league": "lpl"
+    },
+    {
+      "id": "g2",
+      "name": "G2",
+      "fullName": "G2 Esports",
+      "league": "lpl"
+    },
+    {
+      "id": "lyon",
+      "name": "LYON",
+      "fullName": "LYON",
+      "league": "lpl"
+    },
+    {
+      "id": "fur",
+      "name": "FUR",
+      "fullName": "FURIA",
+      "league": "lpl"
+    },
+    {
+      "id": "t1",
+      "name": "T1",
+      "fullName": "T1",
+      "league": "lpl"
+    },
+    {
+      "id": "act",
+      "name": "ACT",
+      "fullName": "ACT",
+      "league": "ivl"
+    },
+    {
+      "id": "dou5",
+      "name": "DOU5",
+      "fullName": "DOU5",
+      "league": "ivl"
+    },
+    {
+      "id": "fpx-zq",
+      "name": "FPX.ZQ",
+      "fullName": "FunPlus Phoenix ZQ",
+      "league": "ivl"
+    },
+    {
+      "id": "gg",
+      "name": "GG",
+      "fullName": "GG Esports",
+      "league": "ivl"
+    },
+    {
+      "id": "gr",
+      "name": "GR",
+      "fullName": "GR",
+      "league": "ivl"
+    },
+    {
+      "id": "gw",
+      "name": "GW",
+      "fullName": "GW",
+      "league": "ivl"
+    },
+    {
+      "id": "mrc",
+      "name": "MRC",
+      "fullName": "MRC",
+      "league": "ivl"
+    },
+    {
+      "id": "te",
+      "name": "TE",
+      "fullName": "TE",
+      "league": "ivl"
+    },
+    {
+      "id": "wbg-ivl",
+      "name": "WBG",
+      "fullName": "Weibo Gaming IVL",
+      "league": "ivl"
+    },
+    {
+      "id": "wolves",
+      "name": "Wolves",
+      "fullName": "Wolves Esports",
+      "league": "ivl"
+    }
+  ]
+}
