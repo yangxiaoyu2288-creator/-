@@ -11,7 +11,7 @@ const DATA_FILE = path.join(__dirname, 'data', 'matches.json');
 const TEAMS_FILE = path.join(__dirname, 'data', 'teams.json');
 
 // 简单密码保护
-const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'admin123';
+const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'lpl2026';
 
 // 中间件
 app.use(cors());
