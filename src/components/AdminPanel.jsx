@@ -9,7 +9,7 @@ const VENUES = {
 
 const STAGES = ['常规赛', '季后赛', '夏季赛', '春季赛'];
 
-const API_BASE = 'http://localhost:3001/api';
+const API_BASE = 'https://alluring-exploration-production-e73b.up.railway.app/api';
 
 const AdminPanel = ({ onBack, adminPassword }) => {
   const [password] = useState(adminPassword);

@@ -7,7 +7,7 @@ import MatchDetails from './components/MatchDetails';
 import AdminPanel from './components/AdminPanel';
 import { useNotifications } from './hooks/useNotifications';
 
-const API_BASE = 'http://localhost:3001/api';
+const API_BASE = 'https://alluring-exploration-production-e73b.up.railway.app/api';
 
 function App() {
   const [currentDate, setCurrentDate] = useState(new Date());
